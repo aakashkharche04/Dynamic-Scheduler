@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\MessageModels\bin\Debug\MessageModels.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\MessageModels\bin\Debug\MessageModels.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\MessageModels\obj\Debug\MessageModels.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\MessageModels\obj\Debug\MessageModels.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\MessageModels\obj\Debug\MessageModels.pdb

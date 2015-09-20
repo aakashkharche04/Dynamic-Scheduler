@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\LogRequest\bin\Debug\LogRequest.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\LogRequest\bin\Debug\LogRequest.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\LogRequest\obj\Debug\LogRequest.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\LogRequest\obj\Debug\LogRequest.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\LogRequest\obj\Debug\LogRequest.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\LogRequest\bin\Debug\MessageModels.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\LogRequest\bin\Debug\MessageModels.pdb

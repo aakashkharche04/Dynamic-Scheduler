@@ -1,0 +1,9 @@
+c:\Users\Lenovo\documents\visual studio 2013\Projects\DS\ManageMessages\bin\Debug\ManageMessages.dll
+c:\Users\Lenovo\documents\visual studio 2013\Projects\DS\ManageMessages\bin\Debug\ManageMessages.pdb
+c:\Users\Lenovo\documents\visual studio 2013\Projects\DS\ManageMessages\obj\Debug\ManageMessages.csprojResolveAssemblyReference.cache
+c:\Users\Lenovo\documents\visual studio 2013\Projects\DS\ManageMessages\obj\Debug\ManageMessages.dll
+c:\Users\Lenovo\documents\visual studio 2013\Projects\DS\ManageMessages\obj\Debug\ManageMessages.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\ManageMessages\bin\Debug\LogRequest.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\ManageMessages\bin\Debug\MessageModels.dll
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\ManageMessages\bin\Debug\LogRequest.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\DS\ManageMessages\bin\Debug\MessageModels.pdb
